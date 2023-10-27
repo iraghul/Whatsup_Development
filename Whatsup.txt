@@ -8,3 +8,5 @@ b=20;
 System.out.println("The sum is:"+(a+b));
 }
 }
+
+Hiding a last seen implemented
